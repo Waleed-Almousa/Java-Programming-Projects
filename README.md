@@ -2,7 +2,7 @@
 
 Java programming projects completed Spring 2024
 
-Each folder has a pdf file describing program specifications and deliverables for each project
+Each folder has a pdf file describing program specifications and deliverables for each project. All code is in source folders. 
 
 Topics covered in this course include:
 

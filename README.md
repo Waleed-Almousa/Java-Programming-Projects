@@ -7,4 +7,14 @@ Each folder has a pdf file describing program specifications and deliverables fo
 Topics covered in this course include:
 
 - Procedural Programming
+- Object Oriented Programming
+- Exception Handling
+- Program Testing
+- Inheritance, Interfaces, and Casting
+- Generics and Abstract Data Types
+- Recursion
+- Search and Sorting
+- Linear Data Structures
+- Hierarchal Data Structures
+
 
